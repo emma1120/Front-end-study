@@ -11,23 +11,23 @@
 
 
 ### 1 javaScript数据类型
----
+-
 
 [javaScript数据类型](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)  
 原始值（primitive values） :  boolean null undefined number string symbol
 Object
 
 ### 2 类型判断
----
+-
      
 
 ### 3 闭包 Closures
----
+-
 [MDN闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)  
 [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 ### 4 this , call apply bind 
----
+-
 this 
  >摘抄自你不知道的JavaScript  
  为什么要使用this -- 更优雅的方式来隐形的“传递”一个对象的引用，API设计的更加简洁且易于复用  
@@ -35,15 +35,15 @@ this
 
 
 ### 5 深浅拷贝
----
+-
 
 
 ### 6 原型 原型链 原型继承
----
+-
 
 
 ###  7 立即执行函数表达式 IIFE (Immediately Invoked Function Expression)
----
+-
 
 ```
 //摘抄自你不知道的JavaScript
@@ -66,11 +66,11 @@ console.log(a) //2
 
 
 ### 7 数组
----
+-
 
 
 ### 8 对象
----
+-
 //遍历对象
 
 
