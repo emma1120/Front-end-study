@@ -26,4 +26,15 @@ map.get('name')
 map.has('title')
 map.get('title')
 
+//遍历方法
+keys() //返回键名
+values()
+entries()
+forEach()
+
+
+
+
+
+
 
