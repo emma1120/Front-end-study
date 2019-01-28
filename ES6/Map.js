@@ -27,11 +27,27 @@ map.has('title')
 map.get('title')
 
 //遍历方法
-keys() //返回键名
-values()
-entries()
-forEach()
+/*keys() //返回键名
+values()// 返回键值的遍历器
+entries() // 返回所有成员的遍历器
+forEach() //遍历Map 的所有成员
 
+const map = new Map({
+    ['F','no'] ,
+    ['T','yse']
+})
+
+for(let key of map.keys()){
+   console.log(key)
+}*/
+
+//Map 结构转为数组结构   使用扩展运算符(...)
+const map1 = new Map([[1,'one'],[2,'two'],[3,'three']])
+
+const map1ToKeys = [...map1.keys()]
+const map1ToValues = [...map1.values()]
+const map1ToEntries= [...map1.entries()]
+const map1ToArr = [...map1]
 
 
 

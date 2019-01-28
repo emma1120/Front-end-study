@@ -1,9 +1,9 @@
 Node.js 是 JavaScript 运行时环境    js解析器
 - 构建在 Chrome's V8 这个著名的 JavaScript 引擎之上
 
-[狼叔github](https://github.com/i5ting/How-to-learn-node-correctly)
-
-![avatar](./狼叔nodelive.png）
+-[狼叔知乎livegithub地址](https://github.com/i5ting/How-to-learn-node-correctly)
+-[7天学会node.js](http://nqdeng.github.io/7-days-nodejs/#4.1)
+![狼叔node摘抄](./狼叔nodelive.png）
 ```
 //下面代码来自狼叔的github    ----  学习记录
 exports.list = async (ctx, next) =>{
@@ -49,6 +49,8 @@ async function main(){
 
 main();
 ```
+
+
 
 
 videojs.getPlayers("video-player").html5player.tech_.setPlaybackRate(2)
