@@ -1,3 +1,5 @@
+javascript超级
+
 #Basic Types
 
 #### Boolean
